@@ -1,0 +1,14 @@
+main: me.turnnyxyz.deathpunishment.Main
+version: 1.0.6
+api-version: 1.15
+name: Death-Punishment
+author: TurnLnwZa
+commands:
+    setspawnpoint:
+        description: Set spawn point command.
+    setpunishpoint:
+        description: Set punishment point command.
+    spawn:
+        description: Spawn command.
+    soul:
+        description: Main soul command.
